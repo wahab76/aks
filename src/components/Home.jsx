@@ -16,7 +16,7 @@ const Home = () => (
       >
         {/* Main Heading */}
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-          Welcome to <span className='flex justify-center items-center my-3'><img src='./dist/aks.png' alt="" className="h-[100px] w-[100px] outline-[2px_solid_white]" /></span> Traders
+          Welcome to <span className='flex justify-center items-center my-3'><img src='https://i.imghippo.com/files/gKU4601rI.png' alt="" className="h-[100px] w-[100px] outline-[2px_solid_white]" /></span> Traders
         </h1>
         
         {/* Subheading */}

@@ -3,7 +3,7 @@ import { FaInstagram, FaFacebookF, FaGoogle, FaWhatsapp } from 'react-icons/fa';
 
 const Footer = () => (
   <footer className="bg-gray-800 py-8 flex flex-col items-center justify-center">
-    <img src="./dist/aks.png" alt="Logo" className="h-14 w-14 outline-white outline-2" />
+    <img src="https://i.imghippo.com/files/gKU4601rI.png" alt="Logo" className="h-14 w-14 outline-white outline-2" />
     
     <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center text-white mt-4">
       <h2 className="text-lg md:text-xl font-semibold mb-4">Follow Us</h2>

@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[#0D3B66] text-[#FAF0CA] p-4 fixed w-full z-10">
       <div className="container mx-auto flex justify-between px-5 md:justify-around items-center">
-        <img src="./dist/aks.png" alt="Logo" className="h-12 w-12 outline-[2px_solid_white]" />
+        <img src="https://i.imghippo.com/files/gKU4601rI.png" alt="Logo" className="h-12 w-12 outline-[2px_solid_white]" />
         
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-8">
