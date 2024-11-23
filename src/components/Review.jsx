@@ -30,8 +30,13 @@ const Reviews = () => (
         </div>
         <div className="bg-[#0D3B66] text-[#FAF0CA] p-6 rounded-xl shadow-lg flex flex-col items-center text-center flex-1 min-w-[250px]">
           <FaShippingFast className="text-4xl mb-3" />
-          <h3 className="text-xl font-semibold mb-2">Fast Delivery</h3>
-          <p>Timely delivery of quality products.</p>
+          <h3 className="text-xl font-semibold mb-2">Fast Pickup</h3>
+          <p>Timely Pickup Service.</p>
+        </div>
+        <div className="bg-[#0D3B66] text-[#FAF0CA] p-6 rounded-xl shadow-lg flex flex-col items-center text-center flex-1 min-w-[250px]">
+          <FaShippingFast className="text-4xl mb-3" />
+          <h3 className="text-xl font-semibold mb-2">Dismantling Service</h3>
+          <p>Dismantling of properties.</p>
         </div>
       </div>
 
