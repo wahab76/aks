@@ -20,6 +20,8 @@ const products = [
   { id: 15, name: 'Construction Debris', description: 'Recyclable construction materials.', image: 'https://media.istockphoto.com/id/1402897334/photo/metal-scrap-in-a-waste-sorting-container.webp?a=1&b=1&s=612x612&w=0&k=20&c=KPZg_eV2Sn3bSBih4PoXkh1-DnDMZCgp3ghCyuA_KfA=' },
   { id: 16, name: 'Furniture Waste', description: 'Old furniture ready for repurposing.', image: 'https://images.unsplash.com/photo-1632667226262-3f341ec5afff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnVybml0dXJlJTIwd2FzdGV8ZW58MHx8MHx8fDA%3D' },
   { id: 17, name: 'Battery Scrap', description: 'Battery scrap for specialized recycling.', image: 'https://media.istockphoto.com/id/179382731/photo/used-batteries-piled-randomly-in-big-container.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZTVtWdu2nU2hM2Xba_tqoN-nqfHOPxEufL1xVVURt3c=' },
+  { id: 18, name: 'Dismantling Service', description: 'Dismantling of houses, shops and buildings', image: 'https://www.istockphoto.com/photo/backhoe-is-demolish-old-house-for-do-building-new-house-gm1169540427-323345051?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdismantling&utm_medium=affiliate&utm_source=unsplash&utm_term=dismantling%3A%3A%3A give me is image address
+    ' },
 ];
 
 const Products = () => (
